@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </div>
 <br />
 
-## Ferramentas e tecnologias / Tools and technologies.
+## Ferramentas e tecnologias / Tools and technologies:
 <div style="display: inline_block"><br>
   <img align="left" alt="C" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
   <img align="left" alt="C++" width="6%" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" />
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <br />
 
 ---
-## GitHub Stats.
+## GitHub Stats:
 <div>
   <a href="https://github.com/RCastro13?tab=repositories" target="_blank"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RCastro13&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github   stats" /></a>
   <a href="https://github.com/RCastro13?tab=repositories" target="_blank"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCastro13&layout=compact&theme=dracula&langs_count=7" /></a>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <br />
 
 ---
-   ## Obrigado por visitar meu perfil, até mais!
+   ## Obrigado por visitar meu perfil!
    <p align="center">
    <img align="center" alt="Ed" width="200px" src="https://www.pngkit.com/png/full/320-3202580_edited-communication-icons-from-triforce-heroes-link-tri.png" />
    </p>
