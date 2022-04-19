@@ -47,8 +47,8 @@ Here are some ideas to get you started:
  ## Me encontre aqui / Find me here:
 <div>
 
-  [<img align="left" alt="codeSTACKr | LinkedIn" width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-  [<img align="left" alt="codeSTACKr | Instagram" width="5%" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+   [<img align="left" alt="codeSTACKr | LinkedIn" width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+  [<img align="left" alt="codeSTACKr | Instagram" width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
   <!--[<img align="left" alt="codeSTACKr | Steam" width="5%" src="https://cdn-icons-png.flaticon.com/512/2111/2111630.png" />][steam]
 
   [steam]: https://steamcommunity.com/profiles/76561198107757687/   -->
