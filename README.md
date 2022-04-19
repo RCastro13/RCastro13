@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div>
  <details>
-  <summary>🌊 Português</summary>
+  <summary>:palm_tree: Português</summary>
 
   ### Olá pessoal, beleza? Meu nome é Rubens e você está visitando meu perfil no GitHub! ✌️ 
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
   ### Hello guys, what's up? My name is Rubens and you are visiting my GitHub profile! ✌️ 
 
-  ## I´m a computer science studend!
+  ## I´m a computer science student!
 
   - 🎓 I'm currently on the first period of my Computer Science degree at UFMG.
   - 📑 My current projects are a website for daily organization ("Saturno") and the apprenticeship of game development with GameMaker and Unity.
@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 </div>
 
 ---
- ## Me encontre aqui / Find me here:
+ ## :calling:Mídias Sociais: / Social Media:
 <div>
 
-   [<img align="left" alt="codeSTACKr | LinkedIn" width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+  [<img align="left" alt="codeSTACKr | LinkedIn" width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
   [<img align="left" alt="codeSTACKr | Instagram" width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
   <!--[<img align="left" alt="codeSTACKr | Steam" width="5%" src="https://cdn-icons-png.flaticon.com/512/2111/2111630.png" />][steam]
 
