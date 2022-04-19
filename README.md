@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   ## Eu sou um aluno de Ciência da Computação!
 
-  - 🎓 Eu estou atualmente cursando o segundo período do curso de Ciência da Computação na PUC-MG.
+  - 🎓 Eu estou atualmente cursando o primeiro período do curso de Ciência da Computação na UFMG.
   - 📑 Meus projetos atuais são um site para organização pessoal ("Saturno") e o aprendizado de desenvolvimento de jogos com GameMaker e Unity.
   <!-- - 💹 Objetivos do ano: Contribuir em projetos de código aberto.
   - 🎼 Mais um pouco sobre mim: Eu toco guitarra e baixo no meu tempo livre! -->
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
   ## I´m a computer science studend!
 
-  - 🎓 I'm currently on the second period of my Computer Science degree at PUC-Minas.
+  - 🎓 I'm currently on the first period of my Computer Science degree at UFMG.
   - 📑 My current projects are a website for daily organization ("Saturno") and the apprenticeship of game development with GameMaker and Unity.
   <!-- - 💹 2021 goals: Contribute on open source projects.
   - 🎼 More about me: I love to play guitar and bass! -->
