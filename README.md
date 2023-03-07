@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  ✌️ Bom dia, boa tarde, boa noite para quem está chegando, um abraço, um beijo e um queijo para quem está saindo! ✌️ 
+</div>
 
 <div>
  <details>
