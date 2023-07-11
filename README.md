@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  ✌️ Bom dia, boa tarde, boa noite para quem está chegando, um abraço, um beijo e um queijo para quem está saindo! ✌️ 
+  ✌️ Bom dia, boa tarde, boa noite para quem está chegando, um abraço, um beijo e um queijo para quem está saindo! ✌️\ 
 </div>
 
 <div>
